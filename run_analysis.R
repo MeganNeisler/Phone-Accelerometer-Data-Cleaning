@@ -54,7 +54,7 @@ names(completeData)<-gsub("gravity", "Gravity", names(completeData))
 # 66 <- 68 columns but last two (activity & subject)
 tidyData <- ddply(completeData, .(subject, activity), function(x) colMeans(x[, 1:66]))
 #Write data to data file "Tidy.text" that contains the processed data
-write.table(tidyData, "Tidy.txt", row.name=FALSE)
+write.table(tidyData, "Tidy.txt", sep=",",row.names=FALSE)
 
 
 
