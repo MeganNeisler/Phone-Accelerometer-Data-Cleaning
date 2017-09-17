@@ -1,10 +1,11 @@
-# Getting-Cleaning-Project
+# Obtaining and Cleaning Data from Samsung Accelerometers
 
 This repository contains my work for the course project for the Coursera course "Getting and Cleaning data", part of the Data Science specialization. The purpose of the project is to collect and clean a data set from Samsung Galaxy S smartphone accelerometers for future ananlysis. 
 
 ## About the Data
 
-Data was collected from the accelerometers from the Samsung Galaxy S smartphone. Please see the following url for a full data description [http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones].
+Data was collected from the accelerometers from the Samsung Galaxy S smartphone. Please see the following url for a full data description:
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 Here are the data for the project:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
